@@ -23,4 +23,5 @@ if button:
     if choice == 'Divide':
         result = fnum / snum
 st.success(f"The result is: {result}")
-       
+st.balloons()
+st.snow()
